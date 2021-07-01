@@ -1,4 +1,4 @@
-## Oi! Eu sou Gabriel Bobrov
+## Oi! Eu sou o Gabriel Bobrov
  <div>
   <a href="https://github.com/GabrielBobrov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBobrov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
