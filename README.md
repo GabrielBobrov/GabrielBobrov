@@ -1,7 +1,3 @@
-## Oi! Eu sou o Gabriel Bobrov
-<img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
-
-
 # Gabriel Bobrov
 ### Desenvolvedor fullstack 🖥💻
 
@@ -25,7 +21,7 @@
 
 <p align="left" margin-left="10px">
 - 🧩 Minhas Stack: <strong>React, Git, C#, Java</strong> <br>
-- ⚙ Conhecimento em Tecnologias como: <strong>TypeScript, Spring, StyledComponents, .NET, NodeJs, Bootstrap,Testes unitários em Java (Mokito, JUnit), Testes unitários em C# (Bogus, Moq, FluentAssertions)</strong> <br>
+- ⚙ Conhecimento em Tecnologias como: <strong>TypeScript, StyledComponents, Spring, .NET,Testes unitários em Java (Mokito, JUnit), Testes unitários em C# (Bogus, Moq, FluentAssertions)</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>PostgreSQL</strong> <strong>MongoDB</strong> <br>
 </p>
 
