@@ -13,9 +13,9 @@
 <p align="left" margin-left="10px"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou estudando: Testes Automatizados e DesignPatterns
+- 📚 No momento estou me aprofundando em: .NET e React
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
+- 🎓 Ciência da Computação  - UniCeub.
 
 
 
@@ -24,11 +24,9 @@
 ### Skills:
 
 <p align="left" margin-left="10px">
-- 🧩 Minhas Stack: <strong>React, HTML, CSS, JavaScript e Git</strong> <br>
-- ⚙ Conhecimento em Tecnologias como: <strong>TypeScript, cypress, StyledComponents, Express, NodeJs, Gulp, SCSS, Tailwind, Bootstrap, Eslint, Prettier</strong> <br>
-- 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
-- 🛠 Conhecimento em Framework: <strong>NextJS, VueJS</strong> <br>
-- 🧩 Ferramenta de prototipação: <strong>Figma</strong>
+- 🧩 Minhas Stack: <strong>React, Git, C#, Java</strong> <br>
+- ⚙ Conhecimento em Tecnologias como: <strong>TypeScript, Spring, StyledComponents, .NET, NodeJs, Bootstrap,Testes unitários em Java (Mokito, JUnit), Testes unitários em C# (Bogus, Moq, FluentAssertions)</strong> <br>
+- 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>PostgreSQL</strong> <strong>MongoDB</strong> <br>
 </p>
 
 <br/>
