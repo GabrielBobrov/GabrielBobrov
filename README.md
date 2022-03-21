@@ -1,7 +1,7 @@
-<img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/gmZiFh1.jpeg">
+<img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
 
 # Gabriel Bobrov
-### Desenvolvedor fullstack 🖥💻
+### Desenvolvedor fullstack 🖥 💻
 
 
 <br>
