@@ -1,4 +1,39 @@
 ## Oi! Eu sou o Gabriel Bobrov
+<img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
+
+
+# Gabriel Bobrov
+### Desenvolvedor fullstack 🖥💻
+
+
+<br>
+
+### Sobre Mim:
+
+<p align="left" margin-left="10px"> 
+
+- 🌱 Explorando novas tecnologias, técnicas e soluções.
+- 📚 No momento estou estudando: Testes Automatizados e DesignPatterns
+- 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
+
+
+
+<br>
+
+### Skills:
+
+<p align="left" margin-left="10px">
+- 🧩 Minhas Stack: <strong>React, HTML, CSS, JavaScript e Git</strong> <br>
+- ⚙ Conhecimento em Tecnologias como: <strong>TypeScript, cypress, StyledComponents, Express, NodeJs, Gulp, SCSS, Tailwind, Bootstrap, Eslint, Prettier</strong> <br>
+- 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
+- 🛠 Conhecimento em Framework: <strong>NextJS, VueJS</strong> <br>
+- 🧩 Ferramenta de prototipação: <strong>Figma</strong>
+</p>
+
+<br/>
+<br/>
+
  <div>
   <a href="https://github.com/GabrielBobrov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBobrov&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
