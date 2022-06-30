@@ -11,7 +11,7 @@
 <p align="left" margin-left="10px"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou me aprofundando em: .NET e React
+- 📚 No momento estou me aprofundando em: .NET e Angular
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Ciência da Computação  - UniCEUB
 
