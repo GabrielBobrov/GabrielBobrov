@@ -22,7 +22,7 @@
 ### Skills:
 
 <p align="left" margin-left="10px">
-- 🧩 Minhas Stack: <strong>React C# Java Git</strong> <br>
+- 🧩 Minhas Stack: <strong>Angular React C# Java Git</strong> <br>
 - ⚙ Conhecimento em Tecnologias como: <strong>TypeScript StyledComponents Spring .NET Testes unitários em Java (Mokito JUnit) Testes unitários em C# (Bogus Moq FluentAssertions)</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>Oracle</strong> <strong>PostgreSQL</strong> <strong>MongoDB</strong> <br>
 </p>
