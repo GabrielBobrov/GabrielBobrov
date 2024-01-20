@@ -13,7 +13,7 @@
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou me aprofundando em: Java e React
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
-- 🎓 Cursando Ciência da Computação  - UniCEUB
+- 🎓 Formado em Ciência da Computação  - UniCEUB
 
 
 
