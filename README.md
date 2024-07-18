@@ -53,5 +53,6 @@
   <a href="https://www.linkedin.com/in/gabrielbobrov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  ![Snake animation](https://github.com/GabrielBobrov/GabrielBobrov/blob/output/github-contribution-grid-snake.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielbobrov&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielbobrov" /> </p>
 
 </div>
